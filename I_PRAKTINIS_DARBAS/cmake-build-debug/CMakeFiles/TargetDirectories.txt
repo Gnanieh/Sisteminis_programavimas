@@ -1,0 +1,3 @@
+C:/Users/Sigvidas/CLionProjects/I_PRAKTINIS_DARBAS/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/Sigvidas/CLionProjects/I_PRAKTINIS_DARBAS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sigvidas/CLionProjects/I_PRAKTINIS_DARBAS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
