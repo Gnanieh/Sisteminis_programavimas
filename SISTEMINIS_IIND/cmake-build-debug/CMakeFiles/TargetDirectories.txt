@@ -1,0 +1,3 @@
+C:/Users/pkrin/CLionProjects/SISTEMINIS_IIND/cmake-build-debug/CMakeFiles/untitled1.dir
+C:/Users/pkrin/CLionProjects/SISTEMINIS_IIND/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pkrin/CLionProjects/SISTEMINIS_IIND/cmake-build-debug/CMakeFiles/rebuild_cache.dir

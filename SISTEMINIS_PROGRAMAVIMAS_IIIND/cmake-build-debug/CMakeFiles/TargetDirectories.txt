@@ -1,0 +1,3 @@
+C:/Users/pkrin/CLionProjects/SISTEMINIS_PROGRAMAVIMAS_IIIND/cmake-build-debug/CMakeFiles/SISTEMINIS_PROGRAMAVIMAS_IIIND.dir
+C:/Users/pkrin/CLionProjects/SISTEMINIS_PROGRAMAVIMAS_IIIND/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pkrin/CLionProjects/SISTEMINIS_PROGRAMAVIMAS_IIIND/cmake-build-debug/CMakeFiles/rebuild_cache.dir

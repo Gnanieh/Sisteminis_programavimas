@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.30)
+project(SISTEMINIS_PROGRAMAVIMAS_IIIND)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(SISTEMINIS_PROGRAMAVIMAS_IIIND main.cpp)
